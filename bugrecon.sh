@@ -53,5 +53,4 @@ fi
 
 cd /tmp/$target
 
-nmap -oN $target.txt $target  
-cat $target.txt | grep http
+
